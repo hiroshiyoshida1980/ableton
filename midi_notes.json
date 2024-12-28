@@ -1,0 +1,35 @@
+[
+  {
+    "pitch": 67,
+    "start_time": 0,
+    "duration": 0.25,
+    "velocity": 100,
+    "muted": false,
+    "probability": 1,
+    "velocityDeviation": 0,
+    "releaseVelocity": 64,
+    "id": 2
+  },
+  {
+    "pitch": 76,
+    "start_time": 1,
+    "duration": 0.25,
+    "velocity": 100,
+    "muted": false,
+    "probability": 1,
+    "velocityDeviation": 0,
+    "releaseVelocity": 64,
+    "id": 1
+  },
+  {
+    "pitch": 60,
+    "start_time": 2.25,
+    "duration": 0.25,
+    "velocity": 100,
+    "muted": false,
+    "probability": 1,
+    "velocityDeviation": 0,
+    "releaseVelocity": 64,
+    "id": 3
+  }
+]
